@@ -9,7 +9,7 @@
 - [ ]`@pares    :3:zero` repetição [Calculando soma](base/pares/README.md)
 - [ ]`@ceu      :4:zero` repetição [Ingrid quer chegar no céu](base/ceu/README.md)
 
-## sandbox
+## sandbox @sandbox l:X
 
 - [ ]`@cortada  `[Essa nota presta? - OBI 2019 F1P1](base/cortada/README.md)
 - [ ]`@zigzag   `[Viunei e a saúde mental](base/zigzag/README.md)
